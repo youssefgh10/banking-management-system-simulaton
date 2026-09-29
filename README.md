@@ -66,7 +66,7 @@ banking-management-system-cpp/
 
 The Visual Studio filters retain the feature grouping shown in the original solution: customer features, employee features, the statistics module, and their supporting data structures.
 
-The `tests/` folder contains a small smoke check for loading, persistence, transaction undo, closed account archiving, and queue behavior.
+
 
 ## Build and run
 
@@ -87,7 +87,7 @@ g++ -std=c++17 -o banking-management-system.exe src\*.cpp
 
 Run the program from the repository root. Its relative CSV paths are `data/*.csv`. The console menus use Windows `pause` and `cls` commands, so Windows is the supported interactive environment.
 
-To run the smoke check with g++, use `powershell -File tests/run-smoke.ps1` from the repository root. It tests on a copy of the CSV files under `tests/run/` so the sample data is preserved.
+T
 
 The included CSVs provide example data. For a quick demonstration, sign in as customer account `1001` with the name `Ahmed Ben Ali`, or as employee ID `2001` with first name `Mohamed` and last name `Ksouri`. These are sample records, not secure credentials.
 
