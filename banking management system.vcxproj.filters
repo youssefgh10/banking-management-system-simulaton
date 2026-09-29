@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\part1">
+      <UniqueIdentifier>{18e4ed24-c04a-45e2-8294-9583b164d999}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\part3">
+      <UniqueIdentifier>{d0baf370-7675-4f90-98f6-2d2095da0c33}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\part1\customerloantransactionheaders">
+      <UniqueIdentifier>{70a021a9-5fd9-47a7-8720-2b83ac933205}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\part1\cpps">
+      <UniqueIdentifier>{56a37742-4e83-4196-a9cd-6524a7096dfe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\part2">
+      <UniqueIdentifier>{a53d7a0f-61aa-4d64-8374-8a52eda2437b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\part2\completedloanslist%28singly%29">
+      <UniqueIdentifier>{d106683c-05c6-403f-81b2-53e2f882856b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\part1\stacktransaction">
+      <UniqueIdentifier>{45f4026b-d245-493f-849e-9fd4ebe2c257}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\part2\Employee">
+      <UniqueIdentifier>{1820866d-8d3f-4fa0-8fe1-c8d40ca8be02}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\data">
+      <UniqueIdentifier>{14fbbcff-0cbe-4fa4-b166-b0ab9214f26e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\colors">
+      <UniqueIdentifier>{ce8513d9-1248-453c-9ae2-bed043f612c2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\part1\doublylinkedlist%28loans%29">
+      <UniqueIdentifier>{59140c17-6a49-4ea8-9054-c2c1f0a5b046}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\part2\QueueArray%28loan_requests%29">
+      <UniqueIdentifier>{a3a69932-567d-4ad0-813e-151b0040e11c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\part2\singlylinkedlist%28transaction history%29">
+      <UniqueIdentifier>{a44d1cf0-5c5b-448a-8094-b7aadd6f4d66}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\main%28in progress%29.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\doublylinkedlistmethods.cpp">
+      <Filter>Source Files\part1\doublylinkedlist%28loans%29</Filter>
+    </ClCompile>
+    <ClCompile Include="src\completedloanlistmeth.cpp">
+      <Filter>Source Files\part2\completedloanslist%28singly%29</Filter>
+    </ClCompile>
+    <ClCompile Include="src\customer.cpp">
+      <Filter>Source Files\part1\cpps</Filter>
+    </ClCompile>
+    <ClCompile Include="src\stackarraytrmeth.cpp">
+      <Filter>Source Files\part1\stacktransaction</Filter>
+    </ClCompile>
+    <ClCompile Include="src\EmployeeMethods.cpp">
+      <Filter>Source Files\part2\Employee</Filter>
+    </ClCompile>
+    <ClInclude Include="src\customerMethods.h">
+      <Filter>Source Files\part1\customerloantransactionheaders</Filter>
+    </ClInclude>
+    <ClCompile Include="src\customerarrayMethods.cpp">
+      <Filter>Source Files\part2\Employee</Filter>
+    </ClCompile>
+    <ClCompile Include="src\singlylinkedlistMethods.cpp">
+      <Filter>Source Files\part2\singlylinkedlist%28transaction history%29</Filter>
+    </ClCompile>
+    <ClCompile Include="src\QueueMethods.cpp">
+      <Filter>Source Files\part2\QueueArray%28loan_requests%29</Filter>
+    </ClCompile>
+    <ClCompile Include="src\menues.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\statisticsmeth.cpp">
+      <Filter>Source Files\part3</Filter>
+    </ClCompile>
+    <ClCompile Include="src\datamethods.cpp">
+      <Filter>Source Files\data</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\doublylinkedlist.h">
+      <Filter>Source Files\part1\doublylinkedlist%28loans%29</Filter>
+    </ClInclude>
+    <ClInclude Include="src\statisticsmeth.h">
+      <Filter>Source Files\part3</Filter>
+    </ClInclude>
+    <ClInclude Include="src\doublylinkedlistmethods.h">
+      <Filter>Source Files\part1\doublylinkedlist%28loans%29</Filter>
+    </ClInclude>
+    <ClInclude Include="src\completedloanlistmeth.h">
+      <Filter>Source Files\part2\completedloanslist%28singly%29</Filter>
+    </ClInclude>
+    <ClInclude Include="src\completedloanlist.h">
+      <Filter>Source Files\part2\completedloanslist%28singly%29</Filter>
+    </ClInclude>
+    <ClInclude Include="src\customer.h">
+      <Filter>Source Files\part1\customerloantransactionheaders</Filter>
+    </ClInclude>
+    <ClInclude Include="src\loan.h">
+      <Filter>Source Files\part1\customerloantransactionheaders</Filter>
+    </ClInclude>
+    <ClInclude Include="src\transaction.h">
+      <Filter>Source Files\part1\customerloantransactionheaders</Filter>
+    </ClInclude>
+    <ClInclude Include="src\stackarraytr.h">
+      <Filter>Source Files\part1\stacktransaction</Filter>
+    </ClInclude>
+    <ClInclude Include="src\stackarraytrmeth.h">
+      <Filter>Source Files\part1\stacktransaction</Filter>
+    </ClInclude>
+    <ClInclude Include="src\EmployeeMethods.h">
+      <Filter>Source Files\part2\Employee</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Employee.h">
+      <Filter>Source Files\part2\Employee</Filter>
+    </ClInclude>
+    <ClInclude Include="src\customerarray.h">
+      <Filter>Source Files\part1\customerloantransactionheaders</Filter>
+    </ClInclude>
+    <ClInclude Include="src\customerarrayMethods.h">
+      <Filter>Source Files\part2\Employee</Filter>
+    </ClInclude>
+    <ClInclude Include="src\singlylinkedlist.h">
+      <Filter>Source Files\part2\singlylinkedlist%28transaction history%29</Filter>
+    </ClInclude>
+    <ClInclude Include="src\singlylinkedlistMethods.h">
+      <Filter>Source Files\part2\singlylinkedlist%28transaction history%29</Filter>
+    </ClInclude>
+    <ClInclude Include="src\QueueArray.h">
+      <Filter>Source Files\part2\QueueArray%28loan_requests%29</Filter>
+    </ClInclude>
+    <ClInclude Include="src\QueueMethods.h">
+      <Filter>Source Files\part2\QueueArray%28loan_requests%29</Filter>
+    </ClInclude>
+    <ClInclude Include="src\datamethods.h">
+      <Filter>Source Files\data</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Employeearray.h">
+      <Filter>Source Files\part2\Employee</Filter>
+    </ClInclude>
+    <ClInclude Include="src\menues.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\loanrequest.h">
+      <Filter>Source Files\part1\customerloantransactionheaders</Filter>
+    </ClInclude>
+    <ClInclude Include="src\colors.h">
+      <Filter>Source Files\colors</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="data\archived_customers.csv">
+      <Filter>Source Files\data</Filter>
+    </None>
+    <None Include="data\completed_loans.csv">
+      <Filter>Source Files\data</Filter>
+    </None>
+    <None Include="data\customers.csv">
+      <Filter>Source Files\data</Filter>
+    </None>
+    <None Include="data\employees.csv">
+      <Filter>Source Files\data</Filter>
+    </None>
+    <None Include="data\loan_requests.csv">
+      <Filter>Source Files\data</Filter>
+    </None>
+    <None Include="data\loans.csv">
+      <Filter>Source Files\data</Filter>
+    </None>
+    <None Include="data\transaction_history.csv">
+      <Filter>Source Files\data</Filter>
+    </None>
+    <None Include="data\transactions.csv">
+      <Filter>Source Files\data</Filter>
+    </None>
+  </ItemGroup>
+</Project>

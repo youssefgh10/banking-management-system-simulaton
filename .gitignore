@@ -1,0 +1,22 @@
+# Visual Studio local state
+.vs/
+*.user
+*.suo
+*.VC.db*
+*.opendb
+*.ipch
+
+# Build output
+Debug/
+Release/
+x64/
+x86/
+Win32/
+tests/run/
+*.obj
+*.o
+*.pch
+*.pdb
+*.ilk
+*.exe
+*.out
