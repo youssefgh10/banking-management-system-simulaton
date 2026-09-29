@@ -1,0 +1,16 @@
+id,name,lastName,address,salary,hireDate,branchCode
+2001,Mohamed,Ksouri,Tunis Avenue Habib Bourguiba,2500,15/03/2020,1
+2002,Sarra,Mejri,Sfax Rue de la République,2800,22/07/2019,2
+2003,Karim,Hamdi,Tunis Rue du Lac,3200,10/01/2018,1
+2004,Amina,Ben Ahmed,Sousse Avenue Mohamed Ali,2600,18/05/2021,3
+2005,Youssef,Trabelsi,Tunis Centre Ville,2400,20/02/2022,1
+2006,Leila,Gharbi,Sfax Rue de la Liberté,2700,12/11/2020,2
+2007,Nabil,Bouaziz,Bizerte Rue du Port,2500,05/08/2021,3
+2008,Rim,Mansouri,Tunis La Marsa,3500,28/03/2017,1
+2009,Mehdi,Jlassi,Nabeul Avenue Farhat Hached,2450,14/06/2022,1
+2010,Asma,Khelifi,Monastir Rue de la Corniche,2550,30/09/2020,2
+2011,Fares,Cherni,Tunis Bab El Khadra,2900,11/12/2019,1
+2012,Marwa,Bouzid,Sfax Route de Tunis,2650,07/04/2021,2
+2013,Hamza,Sassi,Tunis Mutuelleville,3100,19/08/2018,1
+2014,Salma,Rezgui,Gabes Avenue Habib Thameur,2400,15/01/2023,3
+2015,Omar,Ben Salah,Tunis Menzah,2750,25/07/2020,1

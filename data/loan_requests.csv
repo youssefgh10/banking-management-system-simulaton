@@ -1,0 +1,9 @@
+requestID,accountNumber,customerName,loanType,requestedAmount,requestDate,status,durationYears
+3002,1005,Karim Hamdi,home,100000,18/11/2024,pending,20
+3003,1006,Amira Ben Salem,student,10000,20/11/2024,pending,4
+3004,1011,Mehdi Jlassi,business,60000,22/11/2024,pending,7
+3005,1012,Asma Khelifi,car,18000,25/11/2024,pending,5
+3006,1002,Fatma Trabelsi,home,85000,27/11/2024,pending,15
+3007,1003,Mohamed Ksouri,business,40000,28/11/2024,pending,6
+3008,1001,Ahmed Ben Ali,business,10000,07/12/2025,pending,3
+1001,1001,Ahmed Ben Ali,business,1e+06,21/12/2025,pending,30

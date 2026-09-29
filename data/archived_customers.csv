@@ -1,0 +1,11 @@
+accountNumber,accountType,iban,branchCode,accountHolderName,openingDate,status,balance
+2001,Savings,TN5914207099000001111222,1,Hichem Zouari,10/04/2018,closed,0
+2002,Checking,TN5914207099000002222333,2,Rania Ben Jemaa,22/07/2019,inactive,150.75
+2003,Business,TN5914207099000003333444,3,Adel Chouchane,05/11/2017,closed,0
+2004,Savings,TN5914207099000004444555,1,Nesrine Krifa,15/01/2020,inactive,450
+2005,Checking,TN5914207099000005555666,2,Majdi Tlili,30/09/2016,closed,0
+2006,Savings,TN5914207099000006666777,1,Sonia Miled,18/02/2018,inactive,87.35
+2007,Business,TN5914207099000007777888,3,Walid Hajej,12/08/2017,closed,0
+2008,Checking,TN5914207099000008888999,2,Amal Boujbel,25/03/2019,inactive,225.4
+2009,Savings,TN5914207099000009999000,1,Khaled Zidi,08/10/2020,inactive,310.2
+2010,Checking,TN5914207099000011111222,3,Mariem Ferchichi,14/05/2017,closed,0
